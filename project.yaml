@@ -1,7 +1,7 @@
 basic:
-    name: Walsh-Buckridge
+    name: 'VonRueden and Sons'
     environments:
-        production: 'https://tremblay.com/molestiae-reiciendis-ea-unde-dicta-maxime-enim-vero'
+        production: 'https://www.gerlach.net/non-quos-magni-aut-et'
         staging: ''
         development: ''
     breakpoints:
